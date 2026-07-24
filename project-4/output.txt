@@ -1,0 +1,27 @@
+Memory Game Output
+
+Correct Pattern = 101
+
+Button = 101
+WIN = 1
+LOSE = 0
+
+----------------------
+
+Button = 111
+WIN = 0
+LOSE = 1
+
+----------------------
+
+Button = 101
+WIN = 1
+LOSE = 0
+
+----------------------
+
+Button = 001
+WIN = 0
+LOSE = 1
+
+Simulation completed successfully.
